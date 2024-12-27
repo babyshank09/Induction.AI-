@@ -2,6 +2,6 @@ langchain
 langchain_core 
 langchain_community 
 streamlit 
-dotenv 
+python-dotenv 
 langchain_groq 
 langchain_openai
