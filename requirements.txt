@@ -4,4 +4,5 @@ langchain_community
 streamlit 
 python-dotenv 
 langchain_groq 
-langchain_openai
+langchain_openai 
+unstructured
