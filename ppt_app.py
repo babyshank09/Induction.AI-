@@ -13,7 +13,6 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import UnstructuredPowerPointLoader
 import dotenv
 from dotenv import load_dotenv 
-import pptx
 
 st.title("Induction.AI") 
 st.subheader("A Chatbot for any onboarding related query")  
