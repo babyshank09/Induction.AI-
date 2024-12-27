@@ -6,3 +6,4 @@ python-dotenv
 langchain_groq 
 langchain_openai 
 unstructured 
+python-pptx
